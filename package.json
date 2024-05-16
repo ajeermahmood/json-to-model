@@ -1,0 +1,27 @@
+{
+  "name": "json-to-model",
+  "version": "1.0.0",
+  "description": "Converts raw JSON to object model",
+  "main": "dist/jsonToModel.js",
+  "types": "dist/jsonToModel.d.ts",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/json-to-model.git"
+  },
+  "keywords": [
+    "json",
+    "model",
+    "conversion"
+  ],
+  "author": "Ajeer mohammed",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.0.0",
+    "jest": "^27.4.7",
+    "typescript": "^4.6.3"
+  }
+}
